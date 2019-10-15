@@ -71,8 +71,7 @@ python crop_det.py
 
 ### Train
 ```
-./mmdetection/too
-ls/dist_train.sh configs/hr32.py 2 --seed 0
+./mmdetection/tools/dist_train.sh configs/hr32.py 2 --seed 0
 ```
 
 ### Test
