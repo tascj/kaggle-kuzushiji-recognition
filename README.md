@@ -28,7 +28,7 @@
 ## Requirements
 
 * 2x 1080 Ti
-* mmdetection with a few modifications (e.g. mmdetection/mmdet/datasets/pipelines/test_aug.py)
+* [mmdetection](https://github.com/open-mmlab/mmdetection/) with a few modifications (e.g. mmdetection/mmdet/datasets/pipelines/test_aug.py)
 * requirements.txt
 
 
