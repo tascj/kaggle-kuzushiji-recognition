@@ -84,3 +84,8 @@ python crop_det.py
 python make_submission.py ../submits/submit001.csv --input work_dirs/hr32/test_result.pkl
 # python make_submission.py ../submits/submit001.csv --input work_dirs/hr32/test_result.pkl work_dirs/hr48/test_result.pkl
 ```
+
+### Inference
+```
+python inference.py configs/hr32.py ../data/kuzushiji-hr32-f391e720.pth ../data/test_images/test_012f99f8.jpg ../data/out.jpg
+```
