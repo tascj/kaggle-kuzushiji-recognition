@@ -87,5 +87,5 @@ python make_submission.py ../submits/submit001.csv --input work_dirs/hr32/test_r
 
 ### Inference
 ```
-python inference.py configs/hr32.py ../data/kuzushiji-hr32-f391e720.pth ../data/test_images/test_012f99f8.jpg ../data/out.jpg
+python inference.py configs/hr32.py ../data/kuzushiji-hrnetv2p_w32-f391e720.pth ../data/test_images/test_012f99f8.jpg ../data/out.jpg
 ```
