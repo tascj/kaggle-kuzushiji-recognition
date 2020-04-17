@@ -2,7 +2,7 @@ addict==2.2.1
 albumentations==0.3.3
 attrs==19.1.0
 backcall==0.1.0
-bleach==3.1.0
+bleach==3.1.4
 certifi==2019.9.11
 cffi==1.12.3
 chardet==3.0.4
@@ -38,8 +38,6 @@ mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
 mmcv==0.2.13
-# Editable install with no version control (mmdet==1.0rc0+unknown)
--e /media/hdd02/chjian/steel/src/mmdetection
 nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
@@ -52,7 +50,7 @@ pandocfilters==1.4.2
 parso==0.5.1
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.1.0
+Pillow==6.2.2
 portalocker==1.5.1
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
