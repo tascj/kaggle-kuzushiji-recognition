@@ -84,7 +84,7 @@ torchvision==0.4.0a0+6b959ee
 tornado==6.0.3
 tqdm==4.36.1
 traitlets==4.3.2
-urllib3==1.24.3
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.5.1
